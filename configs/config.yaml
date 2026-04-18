@@ -1,0 +1,8 @@
+uz:
+  uz2_gov_id_threshold: 20
+  uz2_payment_threshold: 20
+  uz3_ordinary_threshold: 50
+
+limits:
+  max_text_bytes: 524288
+  max_samples_per_finding: 2

@@ -1,0 +1,6 @@
+report.csv
+report.jsonl
+report.summary.json
+result.csv
+__pycache__/
+ПДнDataset/
