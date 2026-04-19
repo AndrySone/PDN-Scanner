@@ -9,7 +9,7 @@
 
 ```bash
 ln -s /absolute/path/to/your/data ./DATA
-python scanner.py
+python main.py
 ```
 
 ## Настройки
